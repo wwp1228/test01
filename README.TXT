@@ -1,1 +1,1 @@
-Creating a ne branch is quick & simple
+Creating a ne branch is quicK and simple
